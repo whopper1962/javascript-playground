@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whopper1962/javascript-tips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whopper1962/javascript-tips/issues"
+  },
+  "homepage": "https://github.com/whopper1962/javascript-tips#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.2.6",
+    "uuid": "^8.3.2"
+  }
+}
