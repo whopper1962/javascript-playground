@@ -1,4 +1,4 @@
-let users = ['Whopper', 'Mark', 'Kupp'];
+// let users = ['Whopper', 'Mark', 'Kupp'];
 
 
 // 👎
@@ -9,3 +9,7 @@ let users = ['Whopper', 'Mark', 'Kupp'];
 // 👍
 // let lastname = users.at(-1);
 // console.log(lastname); // Kupp
+
+let arr = [,'tomato'];
+
+console.log(arr);
