@@ -1,38 +1,14 @@
 {
-  "メンテナンス株式会社": [
-    {
-      "id": 1,
-      "name": "アベリオ 太郎",
-      "trader_name": "メンテナンス株式会社"
+    "id": {
+        "grain": 1584332797.373291,
+        "gulf": "pocket",
+        "ancient": true,
+        "missing": true,
+        "pet": false
     },
-    {
-      "id": 2,
-      "name": "岡本 太郎",
-      "trader_name": "メンテナンス株式会社"
-    },
-    {
-      "id": 3,
-      "name": "アベリオ まさし",
-      "trader_name": "メンテナンス株式会社"
-    },
-    {
-      "id": 4,
-      "name": "アベリオ まさお",
-      "trader_name": "メンテナンス株式会社"
-    }
-  ],
-  "運用会社": [
-    {
-      "id": 5,
-      "name": "春山 たろう",
-      "trader_name": "運用会社"
-    }
-  ],
-  "null": [
-    {
-      "id": 6,
-      "name": "サービス プロバイダー太郎",
-      "trader_name": "null"
-    }
-  ]
+    "first_name": "Ardyce",
+    "last_name": "Lipmann",
+    "email": "alipmann0@sourceforge.net",
+    "gender": "Female",
+    "ip_address": "216.136.185.146"
 }

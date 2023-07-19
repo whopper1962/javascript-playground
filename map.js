@@ -13,8 +13,8 @@ const students = [
   }
 ];
 
-const result = students.every((student) => {
-  return student.age < 30;
+const result = students.map((student) => {
+  return student.age + 3;
 });
 
 console.log(result);
